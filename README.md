@@ -20,6 +20,7 @@ Aqui vemos que estan los 3
 
 
 A = 
+<br>
 <img width="545" height="306" alt="imagen" src="https://github.com/user-attachments/assets/7f3290af-bba9-4c6b-92b0-a8066145cc5b" /> 
 <br>
 E = 
