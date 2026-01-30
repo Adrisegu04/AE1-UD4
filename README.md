@@ -16,28 +16,8 @@ La primera parte es la de el nombre, crear el Array y dar nombre a las variables
 <img width="582" height="243" alt="imagen" src="https://github.com/user-attachments/assets/39b11b96-8361-43a8-9830-afd6e0e3f01c" />
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<br>
+<br>
 
 JavaDoc exportado
 
