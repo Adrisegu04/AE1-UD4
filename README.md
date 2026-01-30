@@ -11,9 +11,18 @@
 
 
 El código se divide en varias partes:
-La primera parte es la de el nombre, crear el Array y dar nombre a las variables
+La primera parte es la de el nombre, crear el Array y dar nombre a las variables:
 
 <img width="582" height="243" alt="imagen" src="https://github.com/user-attachments/assets/39b11b96-8361-43a8-9830-afd6e0e3f01c" />
+<br>
+
+La segunda parte se divide en la de los bucles y el JavaDoc comentado:
+<img width="748" height="355" alt="imagen" src="https://github.com/user-attachments/assets/395efef5-db3f-4e34-88a0-cef720929225" />
+
+<br>
+Y la tercera parte se divide en lo que queremos mostrar por pantalla:
+<img width="699" height="94" alt="imagen" src="https://github.com/user-attachments/assets/82b97668-e825-4554-b5f5-6051f034b674" />
+
 
 
 <br>
