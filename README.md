@@ -1,6 +1,6 @@
 # Actividad entregable 1
 
-** Esta actividad se basa en: **
+**Esta actividad se basa en:**
 
 - Documentar con Javadoc
 * Crear un README.md
