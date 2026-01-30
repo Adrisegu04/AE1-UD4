@@ -61,20 +61,7 @@ A continuación se muestran los valores de las variables A, E y M junto con sus 
 
 ---
 
-## 4. Refactorización y justificación de cambios
-Durante la actividad se realizaron los siguientes cambios:
 
-1. **Renombrado de variables:** Se cambiaron nombres como `x` o `y` a nombres descriptivos (`numStudents`, `averageScore`) para mejorar la legibilidad.
-2. **Comentarios JavaDoc:** Se añadieron descripciones claras para métodos y variables, explicando su funcionalidad.
-3. **Simplificación de bucles:** Se eliminaron bucles innecesarios y se optimizó la lógica para reducir líneas de código.
-4. **Organización del código:** Se separaron claramente las secciones de inicialización, procesamiento y salida para facilitar la lectura.
-
----
-
-## 5. Conclusión
-Esta actividad permitió practicar la documentación con JavaDoc, mejorar la legibilidad del código mediante refactorización y preparar un README.md con instrucciones claras. Además, se comprendió la importancia de estructurar correctamente un proyecto y de justificar cada cambio realizado.
-
----
 
 ## 6. Autor
 **Adrián Segura Moreno**
