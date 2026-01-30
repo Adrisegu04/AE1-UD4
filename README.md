@@ -50,5 +50,6 @@ M =
 <br>
 <img width="505" height="252" alt="imagen" src="https://github.com/user-attachments/assets/a2289bcc-6c0f-4a89-9903-63e5d0496342" />
 
-
+## Autor
+Adrián Segura Moreno
 
