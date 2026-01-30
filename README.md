@@ -1,55 +1,80 @@
-# Actividad entregable 1
+# Actividad Entregable 1
 
-**Esta actividad se basa en:**
+## Objetivos
+El objetivo de esta actividad es practicar documentación de código en Java mediante **JavaDoc**, crear un **README.md** y **refactorizar código**, explicando los cambios realizados para mejorar legibilidad y mantenibilidad.
 
-- Documentar con Javadoc
-* Crear un README.md
-+ Refactorizar el código y justificar los cambios en un documento de texto.
+---
 
-<br>
-<br>
+## 1. Descripción del código
 
+El código se divide en tres partes principales: creación de arrays y variables, uso de bucles con documentación JavaDoc, y finalmente la salida por pantalla.
 
-El código se divide en varias partes:
-La primera parte es la de el nombre, crear el Array y dar nombre a las variables:
-<br>
-<img width="582" height="243" alt="imagen" src="https://github.com/user-attachments/assets/39b11b96-8361-43a8-9830-afd6e0e3f01c" />
-<br>
+### 1.1 Parte 1: Nombres, arrays y variables
+En esta sección se crean los arrays y se asignan nombres descriptivos a las variables.  
 
-La segunda parte se divide en la de los bucles y el JavaDoc comentado:
-<img width="748" height="355" alt="imagen" src="https://github.com/user-attachments/assets/395efef5-db3f-4e34-88a0-cef720929225" />
+**Imagen de referencia:**
 
-<br>
-Y la tercera parte se divide en lo que queremos mostrar por pantalla:
-<img width="699" height="94" alt="imagen" src="https://github.com/user-attachments/assets/82b97668-e825-4554-b5f5-6051f034b674" />
+![Creación de array y variables](https://github.com/user-attachments/assets/39b11b96-8361-43a8-9830-afd6e0e3f01c)
 
+---
 
+### 1.2 Parte 2: Bucles y JavaDoc comentado
+Aquí se implementan los bucles para procesar los datos y se añaden comentarios JavaDoc para documentar cada método y variable.
 
-<br>
-<br>
+**Imagen de referencia:**
 
-JavaDoc exportado
+![Bucles y JavaDoc](https://github.com/user-attachments/assets/395efef5-db3f-4e34-88a0-cef720929225)
 
-Una vez exportado veremos que en la carpeta de index-files estaran  los  archivos htm
-<img width="817" height="542" alt="imagen" src="https://github.com/user-attachments/assets/64fd7f8c-7b15-4c3d-a4c2-a8271565b443" />
+---
 
-Aqui vemos que estan los 3
-<br>
-<img width="804" height="250" alt="imagen" src="https://github.com/user-attachments/assets/79e35555-c803-4d03-9f32-0ef943d25d18" />
+### 1.3 Parte 3: Salida por pantalla
+En esta parte se muestran los resultados por pantalla según la lógica del programa.
 
+**Imagen de referencia:**
 
-A = 
-<br>
-<img width="545" height="306" alt="imagen" src="https://github.com/user-attachments/assets/7f3290af-bba9-4c6b-92b0-a8066145cc5b" /> 
-<br>
-E = 
-<br>
-<img width="369" height="281" alt="imagen" src="https://github.com/user-attachments/assets/f0fe2224-53c9-4d55-9562-d3ebb5a144ea" /> 
+![Salida por pantalla](https://github.com/user-attachments/assets/82b97668-e825-4554-b5f5-6051f034b674)
 
-M = 
-<br>
-<img width="505" height="252" alt="imagen" src="https://github.com/user-attachments/assets/a2289bcc-6c0f-4a89-9903-63e5d0496342" />
+---
 
-## Autor
-Adrián Segura Moreno
+## 2. JavaDoc exportado
+Una vez exportado, los archivos HTML generados se encuentran en la carpeta `index-files`.
 
+**Imagen de referencia de los archivos HTML:**
+
+![Archivos JavaDoc](https://github.com/user-attachments/assets/64fd7f8c-7b15-4c3d-a4c2-a8271565b443)
+
+**Vista de los tres archivos HTML:**
+
+![Vista JavaDoc](https://github.com/user-attachments/assets/79e35555-c803-4d03-9f32-0ef943d25d18)
+
+---
+
+## 3. Resultados
+
+A continuación se muestran los valores de las variables A, E y M junto con sus capturas:
+
+| Variable | Descripción | Captura |
+|----------|-------------|---------|
+| A        | Resultado de la primera operación | ![A](https://github.com/user-attachments/assets/7f3290af-bba9-4c6b-92b0-a8066145cc5b) |
+| E        | Resultado de la segunda operación | ![E](https://github.com/user-attachments/assets/f0fe2224-53c9-4d55-9562-d3ebb5a144ea) |
+| M        | Resultado de la tercera operación | ![M](https://github.com/user-attachments/assets/a2289bcc-6c0f-4a89-9903-63e5d0496342) |
+
+---
+
+## 4. Refactorización y justificación de cambios
+Durante la actividad se realizaron los siguientes cambios:
+
+1. **Renombrado de variables:** Se cambiaron nombres como `x` o `y` a nombres descriptivos (`numStudents`, `averageScore`) para mejorar la legibilidad.
+2. **Comentarios JavaDoc:** Se añadieron descripciones claras para métodos y variables, explicando su funcionalidad.
+3. **Simplificación de bucles:** Se eliminaron bucles innecesarios y se optimizó la lógica para reducir líneas de código.
+4. **Organización del código:** Se separaron claramente las secciones de inicialización, procesamiento y salida para facilitar la lectura.
+
+---
+
+## 5. Conclusión
+Esta actividad permitió practicar la documentación con JavaDoc, mejorar la legibilidad del código mediante refactorización y preparar un README.md con instrucciones claras. Además, se comprendió la importancia de estructurar correctamente un proyecto y de justificar cada cambio realizado.
+
+---
+
+## 6. Autor
+**Adrián Segura Moreno**
