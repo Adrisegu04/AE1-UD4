@@ -6,6 +6,8 @@
 * Crear un README.md
 + Refactorizar el código y justificar los cambios en un documento de texto.
 
+<br>
+<br>
 
 JavaDoc exportado
 
